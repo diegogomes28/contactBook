@@ -16,7 +16,7 @@ Este é um projeto acadêmico desenvolvido como parte dos estudos em [inserir cu
 Siga os passos abaixo para rodar o projeto localmente:
 
 ### 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/diegogomes28/contactBook.git
 
 ### 2. Instale as dependências do Frontend
 Acesse a pasta do frontend e instale as dependências:
