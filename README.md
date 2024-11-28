@@ -1,6 +1,6 @@
 # Projeto Acadêmico
 
-Este é um projeto acadêmico desenvolvido como parte dos estudos em [inserir curso ou disciplina]. O objetivo do projeto é [descrever o objetivo do projeto, ex: "desenvolver uma aplicação web full-stack com React, Node.js e MongoDB"].
+Este é um projeto acadêmico desenvolvido como parte dos estudos em FrameWork Web. O objetivo do projeto é desenvolver uma aplicação web full-stack com React, TypeScript, Node.js e MongoDB.
 
 ## Tecnologias Usadas
 
