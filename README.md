@@ -18,25 +18,25 @@ Siga os passos abaixo para rodar o projeto localmente:
 ### 1. Clone o repositório
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-2. Instale as dependências do Frontend
+### 2. Instale as dependências do Frontend
 Acesse a pasta do frontend e instale as dependências:
 cd frontend
 npm install
 
-3. Instale as dependências do Backend
+### 3. Instale as dependências do Backend
 Acesse a pasta do backend e instale as dependências:
 
 Copiar código
 cd backend
 npm install
 
-4. Execute o Backend
+### 4. Execute o Backend
 No diretório backend, inicie o servidor Node.js:
 
 Copiar código
 npm start
 
-5. Execute o Frontend
+### 5. Execute o Frontend
 No diretório frontend, inicie o servidor de desenvolvimento do React:
 
 Copiar código
